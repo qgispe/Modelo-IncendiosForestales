@@ -72,7 +72,7 @@ Se puede usar tanto imágenes Landsat y Setinel 2.
 - Luego simplemente deberá ejecutar  el modelo y cargar cada uno de los insumos de entrada que solicita; el archivo .qml que solicita el modelo se encuentra en el repositorio con el nombre de **"Simbología SEVERIDAD.qml"**.
 
 
-![](./img/model_pros.gif) 
+![](./img/model_Pros.gif) 
 
 
 - Finalmente como Resultado obtendrá un archivo Vectorial con el área quemada y un archivo raster con los valores de Severidad.
