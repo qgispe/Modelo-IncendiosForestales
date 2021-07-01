@@ -15,7 +15,7 @@ Lutes, D. C., Keane, R. E., Caratti, J. F., Key, C. H., Benson, N. C., Sutherlan
 
 Se puede usar tanto imágenes Landsat y Setinel 2.
 
-- Debera ejecutar **QGIS with GRASS** para poder usar el modelo.
+- Deberá ejecutar **QGIS with GRASS** para poder usar el modelo.
 - Los datos necesarios para el modelo son:
 
   - Stack de bandas del sensor que desea utilizar (Landsat 8 OLI o Sentinel 2), es necesario que cuente con un stack de bandas de antes del incendio (Pre) y otro de despues del incendio (Post).
