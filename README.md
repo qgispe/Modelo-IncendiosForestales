@@ -6,7 +6,7 @@ El modelo ha sido desarrollado en el diseñador de modelos de QGIS 3.18, con el 
 
 
 
-La metodologia esta basada en la siguiente literatura:
+La metodología esta basada en la siguiente literatura:
 
 Lutes, D. C., Keane, R. E., Caratti, J. F., Key, C. H., Benson, N. C., Sutherland, S., & Gangi, L. J. (2006). FIREMON: Fire effects monitoring and inventory system. Gen. Tech. Rep. USDA Forest Service RMRS-GTR-164-CD. June, 1–55. https://doi.org/10.2737/RMRS-GTR-164
 
@@ -32,7 +32,7 @@ Se puede usar tanto imágenes Landsat y Setinel 2.
     - 4 -> SWIR2 (Banda 12). 
  
 
-  - Archivo .qml que contiene la simbologia para la capa raster de salida (Severidad).
+  - Archivo .qml que contiene la simbología para la capa raster de salida (Severidad).
 
 **NOTA:** Las imágenes que van a ser utilizadas deben estar a nivel de reflectancia supefcial y recortadas de acuerdo al área de interés; adicionalmente puede contar con correcciones como Topográfica y enmascaramiento de Nubes, Agua o sombras, puesto que, pueden llegar causar errores en la estimacion tanto de la severidad como del área quemada. Para el caso de Sentinel 2 debe pasar por un proceso de Remuestreo (Resample).
 
