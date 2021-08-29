@@ -84,3 +84,5 @@ Se puede usar tanto imágenes Landsat y Sentinel 2.
  - **Severidad de la Quema)**
  
  ![](./img/severity.png) 
+
+## **2. Aquí un Ejemplo de Análisis con Sentinel 2:** [Ejemplo Sentinel 2](https://github.com/hugoaluque/Analisis-de-Incendios).
